@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Desafio Criativo: Acelerando Sua Produtividade Pessoal com IA
+# 🎯 Acelerando Sua Produtividade Pessoal com IA
 
 Parte de um Desafio Criativo de Projeto desenvolvido no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO).
 
@@ -24,20 +24,22 @@ Quero que a IA gere um cronograma dinâmico de planejamento diário e um roteiro
 ### Plano de Produtividade do Vendedor de Alta Performance (Foco em Sell-In)
 
 #### 1. Bloco Manhã (Preparação Ágil - 30 minutos)
-* **Ação:** Insira sua lista de clientes do dia na IA e utilize o comando: *"Ordene estes 12 pontos de venda por prioridade de faturamento e proximidade física, sugerindo o roteiro mais curto."*
-* **Ganho:** Redução de 40% no tempo de deslocamento logístico entre as padarias.
+**Ação:** Insira sua lista de clientes do dia na IA e utilize o comando: *"Ordene estes 12 pontos de venda por prioridade de faturamento e proximidade física, sugerindo o roteiro mais curto."*
+**Ganho:** Redução de 40% no tempo de deslocamento logístico entre as padarias.
 
 #### 2. Bloco Campo (Execução Focada - Durante as Visitas)
-* **Ação:** Remova distrações. Foque 100% na argumentação de valor e contorno de objeções de portfólio usando os scripts de apoio mapeados.
+**Ação:** Remova distrações. Foque 100% na argumentação de valor e contorno de objeções de portfólio usando os scripts de apoio mapeados.
 
 #### 3. Bloco Pós-Venda (Voice-to-CRM Automatizado - Fim do Expediente)
-* **Template de Gravação por Voz:** Use o gravador ou transcritor de voz do teclado do smartphone para preencher o relatório diário direto na IA através do seguinte esqueleto:
-  * *"IA, estruture o seguinte resumo para o CRM: Cliente [Nome], Fechou pedido alcoólico [Sim/Não], Comprou FYS [Sim/Não]. Objeção apresentada: [Texto]. Próximo passo definido: [Data]."*
-* **Ganho:** Geração automática do texto formal do relatório em segundos, eliminando digitação manual exaustiva após o trabalho de campo.
+**Template de Gravação por Voz:** Use o gravador ou transcritor de voz do teclado do smartphone para preencher o relatório diário direto na IA através do seguinte esqueleto:
+> *"IA, estruture o seguinte resumo para o CRM: Cliente [Nome], Fechou pedido alcoólico [Sim/Não], Comprou FYS [Sim/Não]. Objeção apresentada: [Texto]. Próximo passo >definido: [Data]."*
+
+**Ganho:** Geração automática do texto formal do relatório em segundos, eliminando digitação manual exaustiva após o trabalho de campo.
 
 ---
 
 ## 🧠 Aprendizados
 
-* **Substituição de Atividades Administrativas:** A inteligência artificial se provou um excelente catalisador de tempo, absorvendo tarefas repetitivas de redação e organização que afastavam o profissional da sua atividade-fim: vender.
-* **Automação de Baixo Custo:** Aprendi que técnicas simples de engenharia de prompt aliadas a recursos nativos gratuitos dos smartphones (como transcrição por voz) conseguem criar fluxos de trabalho hiperprodutivos sem demandar orçamentos de tecnologia de grandes empresas.
+**Substituição de Atividades Administrativas:** A inteligência artificial se provou um excelente catalisador de tempo, absorvendo tarefas repetitivas de redação e organização que afastavam o profissional da sua atividade-fim: vender.
+
+**Automação de Baixo Custo:** Aprendi que técnicas simples de engenharia de prompt aliadas a recursos nativos gratuitos dos smartphones (como transcrição por voz) conseguem criar fluxos de trabalho hiperprodutivos sem demandar orçamentos de tecnologia de grandes empresas.
