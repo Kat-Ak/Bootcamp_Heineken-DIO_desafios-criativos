@@ -30,7 +30,7 @@ Quero que a IA gere um roteiro de abordagem comercial rápida para a equipe de v
 
 ---
 
-## 🧠 Aprendizados
+## 🧠 Aprendizado
 
 **Alinhamento de Áreas (Marketing e Vendas):** O projeto demonstrou como a inteligência artificial pode atuar como uma ferramenta de *Sales Enablement*, traduzindo uma necessidade estratégica do marketing em uma solução prática e ágil para o vendedor de rua.
 
